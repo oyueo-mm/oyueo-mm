@@ -3,7 +3,7 @@
 
 # Hi there! 👋 I'm oyueo-mm
 
-🎓 명지대학교 인공지능전공
+🎓 명지대학교 인공지능전공  
 Artificial Intelligence Undergraduate at Myongji University
 
 🧠 인공지능의 이론과 알고리즘에 관심이 있습니다.  
