@@ -34,7 +34,7 @@ Interested in AI theory, algorithms, and research.
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" height="22"/>
 
 ---
 
