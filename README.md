@@ -55,22 +55,22 @@ Interested in Artificial Intelligence and Computer Science.
 </thead>
 <tbody>
 <tr>
-<td align="center"><b>엔트리 인공지능</b><br><sub>Entry-AI-From-Scratch</sub></td>
+<td align="center"><b>엔트리로 만든 인공지능 알고리즘</b><br><sub>Entry-AI-From-Scratch</sub></td>
 <td align="center">엔트리에서 머신러닝·딥러닝 알고리즘을 밑바닥부터 구현</td>
 <td align="center"><a href="https://github.com/oyueo-mm/Entry-AI-From-Scratch">GitHub</a></td>
 </tr>
 <tr>
-<td align="center"><b>강화학습 놀이터</b><br><sub>RL-Playground</sub></td>
+<td align="center"><b>강화학습 시뮬레이터</b><br><sub>RL-Playground</sub></td>
 <td align="center">Q-Learning·SARSA의 학습 과정과 정책 변화를 시각화</td>
 <td align="center"><a href="https://github.com/oyueo-mm/RL-Playground">GitHub</a> · <a href="https://oyueo-mm.github.io/RL-Playground/">Demo</a></td>
 </tr>
 <tr>
-<td align="center"><b>시각화랩</b><br><sub>VizLab</sub></td>
+<td align="center"><b>시각화 도감</b><br><sub>VizLab</sub></td>
 <td align="center">다양한 데이터 시각화 기법을 탐색하고 실험하는 백과사전</td>
 <td align="center"><a href="https://github.com/oyueo-mm/VizLab">GitHub</a> · <a href="https://oyueo-mm.github.io/VizLab/">Demo</a></td>
 </tr>
 <tr>
-<td align="center"><b>클러스터링 랩</b><br><sub>ClusterLab</sub></td>
+<td align="center"><b>클러스터링 도감</b><br><sub>ClusterLab</sub></td>
 <td align="center">군집화 알고리즘의 내부 작동 과정을 단계별로 시각화</td>
 <td align="center"><a href="https://github.com/oyueo-mm/ClusterLab">GitHub</a> · <a href="https://oyueo-mm.github.io/ClusterLab/">Demo</a></td>
 </tr>
