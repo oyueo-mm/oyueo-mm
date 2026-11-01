@@ -3,10 +3,10 @@
 
 # Hi there I'm oyueo-mm
 
-🎓 명지대학교 인공지능전공 재학중
+🎓 명지대학교 인공지능전공 재학중  
 Artificial Intelligence Undergraduate at MyongJi University
 
-🧠 인공지능의 이론과 알고리즘에 관심이 있습니다.
+🧠 인공지능의 이론과 알고리즘에 관심이 있습니다.  
 Interested in AI theory, algorithms, and research.
 
 ---
