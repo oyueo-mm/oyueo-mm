@@ -76,7 +76,7 @@ Interested in Artificial Intelligence and Computer Science.
 </tr>
 <tr>
 <td align="center"><b>MJUFind</b><br><sub>mju-lost-found</sub></td>
-<td align="center">명지대학교 학생을 위한 AI 기반 분실물·습득물 통합 서비스</td>
+<td align="center">명지대학교 학생을 위한 분실물·습득물 통합 서비스</td>
 <td align="center"><a href="https://github.com/oyueo-mm/mju-lost-found">GitHub</a> · <a href="https://mju-find.vercel.app/">Demo</a></td>
 </tr>
 <tr>
