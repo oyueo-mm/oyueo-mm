@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm oyueo-mm 👋
+# Hi there, I'm oyueo-mm
 
-🎓 명지대학교 인공지능전공 재학 중  
+🎓 명지대학교 인공지능전공 재학중  
 Artificial Intelligence Undergraduate at Myongji University
 
 🧠 인공지능과 컴퓨터공학 전반에 관심이 있습니다.  
